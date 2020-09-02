@@ -18,6 +18,7 @@
 - [Alex Slobodyansky] (https://github.com/web2ls)
 - [Pablo Pena] (https://github.com/Kimeru29)
 - [Konrad Hyzy] (http://github.com/knrdhz)
+- [Atinuke kayode] (https://github.com/iambami)
 - [Devansh Shukla] (https://github.com/devansshh)
 - [Ásbjörn Skarphéðinsson] (http: //github.com/AsiSkarp)
 - [pranjalshinde](https://github.com/pranjalshinde)
@@ -92,6 +93,7 @@
 - [Varun Choudhary] (https://github.com/warlord40)
 - [KILR](https://github.com/KILR007)
 - [Nitish Singh](https://github.com/nitishsingh158)
+- [Biswajit Bhunia](https://github.com/biswajitbhunia123)
 - [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
 - [AlexARNcode](https://github.com/AlexARNcode)
@@ -4013,3 +4015,4 @@
 - [Jilvan Cândido](https://github.com/jilvanx)
 - [Salman-4544](https://github.com/Salman-4544)
 - Reecha Khanal
+- caocan
